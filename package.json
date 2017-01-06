@@ -1,0 +1,16 @@
+{
+  "name": "fn_js",
+  "version": "0.0.1",
+  "description": "test functional programing in js",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J.W.",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.23.0",
+    "ramda-fantasy": "^0.7.0"
+  },
+  "devDependencies": {}
+}
